@@ -1,0 +1,5 @@
+parameters,value,name
+the mass flow of the anode inlet,7.03e-8,MF_a
+the temperature of the anode inlet,1073,T_a
+the mass flow of the cathode inlet,2.31e-7,MF_c
+the temperature of the cathode inlet ,1073,T_c

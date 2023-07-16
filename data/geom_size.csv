@@ -1,0 +1,6 @@
+width_pitch,width_rib_a,width_rib_c,height_anode,height_cathode,height_electrolyte
+2,1,0.6,0.41,0.025,0.01
+2,1,0.8,0.41,0.025,0.01
+2,1,1,0.41,0.025,0.01
+2,1,1.2,0.41,0.025,0.01
+2,1,1.4,0.41,0.025,0.01

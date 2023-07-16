@@ -1,0 +1,21 @@
+parameters,value,name
+the SIMPLEC method,2.10E+01,SIMPLEC
+under_relaxation_pressure,3.00E-01,ur_p
+under_relaxation_density,1.00E+00,ur_d
+under_relaxation_body-force,1.00E+00,ur_bf
+under_relaxation_mom,7.00E-01,ur_mom
+under_relaxation_species-0,1.00E+00,ur_s0
+under_relaxation_species-1,1.00E+00,ur_s1
+under_relaxation_species-2,1.00E+00,ur_s2
+under_relaxation_temperature,1.00E+00,ur_T
+under_relaxation_uds-0,1.00E+00,ur_e
+convergence_criteria_pressure,1.00E-06,conv_p
+convergence_criteria_density,1.00E-06,conv_d
+convergence_criteria_body-force,1.00E-06,conv_bf
+convergence_criteria_mom,1.00E-06,conv_mom
+convergence_criteria_species-0,1.00E-06,conv_s0
+convergence_criteria_species-1,1.00E-06,conv_s1
+convergence_criteria_species-2,1.00E-06,conv_s2
+convergence_criteria_temperature,1.00E-06,conv_T
+convergence_criteria_uds-0,1.00E-06,conv_e
+iterate,300,iterate

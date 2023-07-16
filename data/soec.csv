@@ -1,0 +1,30 @@
+parameters,value,name
+processor_count,1,count
+Total System Voltage,1.2,voltage
+Electrolyte Resistivity,0.44,resis
+Anode Exchange Current Density,0,cur_a
+Cathode Exchange Current Density,0,cur_c
+Cathode Temperature Dependent Coefficient A,1120000000,A_c
+Cathode Temperature Dependent Coefficient B,120000,B_c
+Anode Temperature Dependent Coefficient A,70000000,A_a
+Anode Temperature Dependent Coefficient B,100000,B_a
+Anode Anodic Transfer Coefficient,0.5,alpha_a
+Anode Cathodic Transfer Coefficient,0.5,beta_a
+Cathode Anodic Transfer Coefficient,0.5,alpha_c
+Cathode Cathodic Transfer Coefficient,0.5,beta_c
+H2 Reference Value,0.1,mf_h2
+O2 Reference Value,0.21,mf_o2
+H2O Reference Value,0.9,mf_h2o
+H2 Exponent,1,ex_h2
+O2 Exponent,0.25,ex_o2
+H2O Exponent,1,ex_h2o
+the size of anode pore,0.0000015,pore_a
+the size of cathode pore,0.0000015,pore_c
+the tortuosity of anode,5,tor_a
+the tortuosity of cathode,5,tor_c
+the anode conductivity,12.77,cond_a
+the cathode conductivity,30315.4,cond_c
+the anode interconnector conducitivity,777000,cond_ac
+the cathode interconnector conductivity,777000,cond_cc
+contact resistance of the interconnector to the anode,0.000003,resis_ac
+contact resistance of the interconnector to the cathode,0.000003,resis_cc
