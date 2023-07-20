@@ -1,20 +1,20 @@
 parameters,value,name
-Anode Density,7000,den_a
-Anode Specific Heat ,500,cp_a
-Anode Thermal Conductivity ,4,tc_a
-Cathode Density,7000,den_c
-Cathode Specific Heat ,500,cp_c
-Cathode Thermal Conductivity ,4,tc_c
-Anode Interconnector Density,7000,den_ac
-Anode Interconnector Specific Heat ,500,cp_ac
-Anode Interconnector Thermal Conductivity ,30,tc_ac
-Cathode Interconnector Density,7000,den_cc
-Cathode Interconnector Specific Heat ,500,cp_cc
-Cathode Interconnector Thermal Conductivity ,30,tc_cc
-operating_pressure,303975,pressure
-Anode Permeability,1.00E+12,per_a
-Anode Porosity,0.4,por_a
-surface_volume_ratio_anode,2.00E+05,sv_a
-Cathode Permeability,1.00E+12,per_c
-Cathode Porosity,0.4,por_c
-surface_volume_ratio_cathode,2.00E+05,sv_c
+Anode Density,3310,den_a
+Anode Specific Heat ,450,cp_a
+Anode Thermal Conductivity ,11,tc_a
+Cathode Density,3030,den_c
+Cathode Specific Heat ,430,cp_c
+Cathode Thermal Conductivity ,6,tc_c
+Anode Interconnector Density,3030,den_ac
+Anode Interconnector Specific Heat ,550,cp_ac
+Anode Interconnector Thermal Conductivity ,20,tc_ac
+Cathode Interconnector Density,3030,den_cc
+Cathode Interconnector Specific Heat ,550,cp_cc
+Cathode Interconnector Thermal Conductivity ,20,tc_cc
+operating_pressure,101325,pressure
+Anode Permeability,1000000000000,per_a
+Anode Porosity,0.35,por_a
+surface_volume_ratio_anode,1.03E+05,sv_a
+Cathode Permeability,1000000000000,per_c
+Cathode Porosity,0.35,por_c
+surface_volume_ratio_cathode,1.03E+05,sv_c

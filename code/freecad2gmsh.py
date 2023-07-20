@@ -71,7 +71,7 @@ for i in range(0, epoch-1):
 
 for row in draw_points:
     i = 0
-    L = 89
+    L = 80
     str = "solid{}".format(i)
     x1, y1, x2, y2, x3, y3, x4, y4 = row
     create_rec(x1, y1, x2, y2, x3, y3, x4, y4, L, str)
